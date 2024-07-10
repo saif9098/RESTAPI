@@ -1,4 +1,4 @@
-**Name:** MO. SAIF RAJA.
+**Name:** MO. SAIF RAJA
 **Company:** CODTECH IT SOLUTIONS
 **ID:** CT4BWD3437
 **Domain:** Backend Development
@@ -6,7 +6,7 @@
 
 ## Overview of the Project
 
-###Project: Simple Restful Api for registeration
+### Project: Simple Restful Api for registeration
 
 ### Objective
 The objective of this project is to make an REST Api that take the request from frontend and save the upcoming details in database.
